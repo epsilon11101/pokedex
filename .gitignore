@@ -1,3 +1,5 @@
+# MongoDB data directory
+mongo/
 # compiled output
 /dist
 /node_modules
